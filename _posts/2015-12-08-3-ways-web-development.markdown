@@ -3,7 +3,9 @@ layout: post
 title:  "3 ways web development has changed my life for the better 8-)"
 date:   2015-12-08
 categories: meta learning
+featured-img: /assets/sky.jpg
 ---
+![My helpful screenshot]({{ "/assets/sky.jpg" | absolute_url }})
 
 I have a confession to make. I’m such a nerd. 😎
 
