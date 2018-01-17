@@ -1,3 +1,7 @@
+Demo version of the customized Minima theme with my content: https://marusa15.github.io/techBlog/
+
+
+
 ---
 layout: page
 title: About
