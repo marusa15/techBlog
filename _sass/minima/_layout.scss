@@ -248,3 +248,25 @@
     }
   }
 }
+
+.intro {
+  color: #555555;
+  text-align: center;
+}  
+
+.read-more-button {
+  border: 1px solid #c3c3c3;
+  padding: 1em;
+  width: 170px;
+  margin: auto;
+  text-align: center;
+}
+
+.read-more-button:hover {
+ // border: 1px solid #2a7ae2;
+}
+
+
+.read-more-button a:hover {
+  color: #2a7ae2;
+}
