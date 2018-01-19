@@ -3,3 +3,27 @@
 ---
 
 @import "minima";
+
+.intro {
+  color: #555555;
+  text-align: center;
+}  
+
+.read-more-button {
+  border: 1px solid #c3c3c3;
+  padding: 1em;
+  width: 170px;
+  margin: auto;
+  text-align: center;
+}
+
+.read-more-button a:hover {
+  color: #2a7ae2;
+}
+
+.category {
+  text-transform: uppercase;
+  color: #e9a4f2;
+  display:inline;
+  font-size: small;
+}
