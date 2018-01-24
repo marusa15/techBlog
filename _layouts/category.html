@@ -1,0 +1,30 @@
+---
+layout: page
+---
+<div class="home">
+    
+  {{ content }}
+
+	<ul class="post-list">
+		{% for post in site.categories[page.category] %}
+		   
+		    <li>
+		      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+		      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+		      <h2>
+		        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+		        <a class="category"> {{ post.categories }}</a>
+		      </h2>
+		    
+		      <p><img src="{{ post.featured-img | relative_url }}"></p>
+		      
+		      <div class="below-image">
+		          <p class="intro"> {{ post.introduction }} </p>
+
+		          <p class="read-more-button"><a href="{{ post.url | relative_url }}">Continue reading ... </a></p>
+		      </div>
+		    </li>
+		{% endfor %}
+	</ul>
+</div>

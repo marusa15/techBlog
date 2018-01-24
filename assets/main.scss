@@ -15,7 +15,6 @@
   width: 170px;
   margin: auto;
   text-align: center;
-  box-shadow: inset -3px 3px 13px 18px rgba(244,245,239,1);
 }
 
 .read-more-button a:hover {
@@ -29,4 +28,8 @@
   display:inline;
   font-size: small;
   font-size: 10px;
+}
+
+.post-link {
+  font-weight: bold;
 }

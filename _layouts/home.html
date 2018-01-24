@@ -14,7 +14,7 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          <a class="category"> {{ post.categories }}</a>
+          <a class="category" href="{{ post.permalink }}"> {{ post.categories }}</a>
         </h2>
       
         <p><img src="{{ post.featured-img | relative_url }}"></p>
