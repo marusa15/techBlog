@@ -5,6 +5,7 @@ date:   2017-01-28
 category: "yearly-reviews"
 featured-img: /assets/sparkler.jpg
 introduction: "It’s been past the end of January 2017, so the official bucketlist post is beyond its expiry date, but who cares 😎"
+
 ---
 ![My helpful screenshot]({{ "/assets/sparkler.jpg" | absolute_url }})
 
