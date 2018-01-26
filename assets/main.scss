@@ -24,10 +24,16 @@
 
 .category {
   text-transform: uppercase;
-  color: #828282;
   display:inline;
-  font-size: small;
-  font-size: 10px;
+  background-color: #df83e2;
+  color: #ffffff;
+  padding: 2px 3px;
+  border-radius: 1px;
+  font-size: 8px;
+}
+
+a:visited .category {
+    color: #ffffff;
 }
 
 .post-link {
