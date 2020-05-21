@@ -38,3 +38,5 @@ The way I see it now that I’ve dug into web dev, being computer smart is not s
 Due to my track-record of love-hate relationship with computers, I was a bit worried as to how this may turn into a frustrating experience, but I managed not only to survive the course – by the end, I was loving every minute of it! So much I didn’t want it to end, but was unquenchably thirsty for more! 😀 I was arguably the most dilligent student in class. Sure, there were people who were better at finding creative and clever solutions, but they weren’t beginners like I was. Just being there, fighting till the end and finishing my final project was a very empowering experience, which I would wholeheartedly recommend to anybody.
 
 Have you ever thought about acquiring advanced IT skills? If you did, I’m curious to hear your story, and if not, I am curious if you tried to achieve some other challenging goals – let me know!
+
+<!-- {% disqus %} -->
