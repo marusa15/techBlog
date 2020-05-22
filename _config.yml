@@ -30,10 +30,11 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-  - "disqus-for-jekyll"
+ # - "disqus-for-jekyll"
 
-disqus:
-  name: "marusa15"
+#disqus:
+#  name: "marusa15"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

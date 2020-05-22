@@ -39,4 +39,3 @@ Due to my track-record of love-hate relationship with computers, I was a bit wor
 
 Have you ever thought about acquiring advanced IT skills? If you did, I’m curious to hear your story, and if not, I am curious if you tried to achieve some other challenging goals – let me know!
 
-<!-- {% disqus %} -->
