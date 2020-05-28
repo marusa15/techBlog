@@ -56,6 +56,10 @@ a:visited .category {
     color: #ffffff;
 }
 
+a.site-title:hover {
+  text-decoration: none;
+}
+
 .post-link {
   font-weight: bold;
 }
