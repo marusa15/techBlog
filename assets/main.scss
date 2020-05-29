@@ -28,6 +28,13 @@
   text-align: center;
 }
 
+.gradient {
+  background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+  display: inline-block;
+  width: 1270px;
+  height: 7px;
+}
+
 .site-nav {
   float: none;
   text-transform: uppercase;
