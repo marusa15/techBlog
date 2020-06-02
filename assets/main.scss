@@ -43,6 +43,11 @@
   font-size: 25px;
 }
 
+.post-link {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 .intro {
   color: #555555;
   text-align: center;
@@ -77,8 +82,4 @@ a:visited .category {
 
 a.site-title:hover {
   text-decoration: none;
-}
-
-.post-link {
-  font-weight: bold;
 }
