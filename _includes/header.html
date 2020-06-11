@@ -3,9 +3,12 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <div class="wrapper-title"><a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></div>
+    <div class="wrapper-title">
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <div class="white"></div>
+    </div>
+
   </div>
-    <div class="white"></div>
     <div class="gradient"></div>
   
     {% if page_paths %}
