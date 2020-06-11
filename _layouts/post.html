@@ -18,6 +18,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <a class="page-link post-list" href="{{ "/" | relative_url }}">&larr;BACK</a>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
